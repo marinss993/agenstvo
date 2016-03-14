@@ -1,0 +1,40 @@
+[{
+  "title": "Новострой",
+  "imgUrl": "images/image203768.jpg",
+  "price": "20000",
+  "Area": "Днепровский",
+  "Floor": "3",
+  "Floors": "8",
+  "Room": "4",
+  "fotoUrl": "images/viber.jpg",
+  "relName": "Петя",
+  "relLastName": "Иванов",
+  "relTel": "(050)306-565-01",
+  "relMail": "сссс@mail.ru"
+},{
+  "title": "Дом",
+  "imgUrl": "images/IMG20151130.jpg",
+  "price": "102000",
+  "Area": "Комсомольский",
+  "Floor": "3",
+  "Floors": "10",
+  "Room": "3",
+  "fotoUrl": "images/0501.jpg",
+  "relName": "Николай",
+  "relLastName": "Михалыч",
+  "relTel": "(050)306-565-01",
+  "relMail": "сссс@mail.ru"
+},{
+  "title": "Квартира",
+  "imgUrl": "images/image203768.jpg",
+  "price": "72000",
+  "Area": "Янтарный",
+  "Floor": "5",
+  "Floors": "5",
+  "Room": "6",
+  "fotoUrl": "images/1.jpg",
+  "relName": "Николай",
+  "relLastName": "Михалыч",
+  "relTel": "(050)306-565-01",
+  "relMail": "сссс@mail.ru"
+}]
