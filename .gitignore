@@ -65,8 +65,8 @@
 ################################################
 node_modules
 bower_components
-
-
+.sass-cache
+dist
 
 ################################################
 # Sails.js / Waterline / Grunt
